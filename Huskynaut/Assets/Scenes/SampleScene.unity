@@ -286,6 +286,8 @@ MonoBehaviour:
   enemyPrefabs:
   - {fileID: 8755707127378596558, guid: 815da88a75df9e9419972ff4b3a7073e, type: 3}
   - {fileID: 631292700900909626, guid: 99fc02450db150e42ae697478d08f81a, type: 3}
+  lifePrefabs:
+  - {fileID: 6191297647008539768, guid: 7e7ed767a2c11fa4e8a8f3d98a93786b, type: 3}
 --- !u!4 &124621490
 Transform:
   m_ObjectHideFlags: 0
@@ -674,6 +676,11 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 7879b54b52089e4469b04dbe01f7d751,
         type: 3}
       propertyPath: m_Name
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 7879b54b52089e4469b04dbe01f7d751,
+        type: 3}
+      propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 7879b54b52089e4469b04dbe01f7d751,
