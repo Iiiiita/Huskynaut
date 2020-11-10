@@ -4,9 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
-  - Collectable
+  - Undefined
   - PlayerProjectile
+  - Collectable
+  - Enemy
+  - EnemyProjectile
   layers:
   - Default
   - TransparentFX
@@ -16,7 +18,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - PostProcessing
   - 
   - 
   - 
