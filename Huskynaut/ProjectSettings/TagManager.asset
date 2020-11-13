@@ -9,6 +9,7 @@ TagManager:
   - Collectable
   - Enemy
   - EnemyProjectile
+  - scoreText
   layers:
   - Default
   - TransparentFX
